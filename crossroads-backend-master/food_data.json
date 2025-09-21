@@ -1,0 +1,911 @@
+[
+    {
+        "name": "apple_pie",
+        "serving_size": "1 slice (approx. 1/8 of 9\" pie)",
+        "calories": 410,
+        "carbs_g": 63,
+        "fat_g": 19,
+        "protein_g": 5,
+        "healthier_suggestion": "Baked apples with cinnamon and a sprinkle of oats. This reduces the fat from the crust and refined sugar."
+    },
+    {
+        "name": "baby_back_ribs",
+        "serving_size": "1/2 rack (approx. 6 ribs)",
+        "calories": 650,
+        "carbs_g": 30,
+        "fat_g": 38,
+        "protein_g": 45,
+        "healthier_suggestion": "Grilled pork tenderloin with a dry rub instead of a sugary BBQ sauce. It offers a much leaner cut of pork."
+    },
+    {
+        "name": "baklava",
+        "serving_size": "1 medium piece",
+        "calories": 350,
+        "carbs_g": 45,
+        "fat_g": 20,
+        "protein_g": 5,
+        "healthier_suggestion": "A small handful of walnuts with a drizzle of honey, or Greek yogurt with fruit and nuts to capture the flavor profile with less sugar and butter."
+    },
+    {
+        "name": "beef_carpaccio",
+        "serving_size": "1 appetizer serving",
+        "calories": 300,
+        "carbs_g": 3,
+        "fat_g": 20,
+        "protein_g": 25,
+        "healthier_suggestion": "This is already a relatively healthy, high-protein choice. To make it healthier, ask for less oil/dressing and cheese."
+    },
+    {
+        "name": "beef_tartare",
+        "serving_size": "1 appetizer serving",
+        "calories": 450,
+        "carbs_g": 5,
+        "fat_g": 30,
+        "protein_g": 35,
+        "healthier_suggestion": "Similar to carpaccio, this is high in protein. Opt for lean beef and serve with whole-grain crackers or cucumber slices instead of fries or white bread toast."
+    },
+    {
+        "name": "beet_salad",
+        "serving_size": "1 medium salad",
+        "calories": 250,
+        "carbs_g": 20,
+        "fat_g": 18,
+        "protein_g": 6,
+        "healthier_suggestion": "A very healthy option. To improve it, use a light vinaigrette dressing and limit high-fat additions like goat cheese and candied nuts."
+    },
+    {
+        "name": "beignets",
+        "serving_size": "3 pieces",
+        "calories": 380,
+        "carbs_g": 45,
+        "fat_g": 20,
+        "protein_g": 6,
+        "healthier_suggestion": "Whole-wheat pancakes or a baked donut. This reduces the amount of oil from deep frying."
+    },
+    {
+        "name": "bibimbap",
+        "serving_size": "1 large bowl",
+        "calories": 560,
+        "carbs_g": 80,
+        "fat_g": 15,
+        "protein_g": 25,
+        "healthier_suggestion": "Ask for brown rice instead of white, double the vegetables, and use gochujang sauce sparingly to control sodium and sugar."
+    },
+    {
+        "name": "bread_pudding",
+        "serving_size": "1 square",
+        "calories": 420,
+        "carbs_g": 55,
+        "fat_g": 20,
+        "protein_g": 8,
+        "healthier_suggestion": "Overnight oats made with milk, fruit, and spices. It provides a similar creamy texture with more fiber and less sugar."
+    },
+    {
+        "name": "breakfast_burrito",
+        "serving_size": "1 large burrito",
+        "calories": 700,
+        "carbs_g": 60,
+        "fat_g": 35,
+        "protein_g": 30,
+        "healthier_suggestion": "A breakfast scramble with eggs/tofu, black beans, and veggies in a bowl (no tortilla), or use a whole-wheat tortilla with less cheese and no sour cream."
+    },
+    {
+        "name": "bruschetta",
+        "serving_size": "2 pieces",
+        "calories": 200,
+        "carbs_g": 25,
+        "fat_g": 9,
+        "protein_g": 6,
+        "healthier_suggestion": "A fairly healthy appetizer. Use whole-grain bread and maximize the fresh tomato topping while minimizing the oil drizzle."
+    },
+    {
+        "name": "caesar_salad",
+        "serving_size": "1 entree salad",
+        "calories": 550,
+        "carbs_g": 25,
+        "fat_g": 45,
+        "protein_g": 15,
+        "healthier_suggestion": "A grilled chicken salad with a vinaigrette-based dressing. The calories in a Caesar salad come from the creamy dressing, cheese, and croutons."
+    },
+    {
+        "name": "cannoli",
+        "serving_size": "1 medium cannoli",
+        "calories": 340,
+        "carbs_g": 30,
+        "fat_g": 22,
+        "protein_g": 7,
+        "healthier_suggestion": "A bowl of ricotta cheese mixed with a little vanilla, sweetener, and mini chocolate chips. This removes the fried pastry shell."
+    },
+    {
+        "name": "caprese_salad",
+        "serving_size": "1 appetizer serving",
+        "calories": 300,
+        "carbs_g": 8,
+        "fat_g": 22,
+        "protein_g": 15,
+        "healthier_suggestion": "Already a good choice. To make it lighter, use less olive oil and opt for a smaller portion of fresh mozzarella."
+    },
+    {
+        "name": "carrot_cake",
+        "serving_size": "1 slice with frosting",
+        "calories": 650,
+        "carbs_g": 80,
+        "fat_g": 35,
+        "protein_g": 8,
+        "healthier_suggestion": "A bowl of Greek yogurt with grated carrots, walnuts, raisins, and cinnamon. This avoids the high sugar and fat from the cake and cream cheese frosting."
+    },
+    {
+        "name": "ceviche",
+        "serving_size": "1 cup",
+        "calories": 180,
+        "carbs_g": 15,
+        "fat_g": 4,
+        "protein_g": 20,
+        "healthier_suggestion": "An excellent, healthy, high-protein choice. Serve with baked tortilla chips or sliced cucumbers instead of fried chips."
+    },
+    {
+        "name": "cheese_plate",
+        "serving_size": "1 appetizer portion (3 oz cheese)",
+        "calories": 500,
+        "carbs_g": 20,
+        "fat_g": 35,
+        "protein_g": 25,
+        "healthier_suggestion": "A small plate focusing on one or two cheeses, accompanied by fresh fruit like apples and grapes instead of crackers and jams."
+    },
+    {
+        "name": "cheesecake",
+        "serving_size": "1 slice",
+        "calories": 500,
+        "carbs_g": 45,
+        "fat_g": 35,
+        "protein_g": 9,
+        "healthier_suggestion": "Greek yogurt with berries and a graham cracker crumbled on top. It mimics the creamy texture and flavor with far less fat and sugar."
+    },
+    {
+        "name": "chicken_curry",
+        "serving_size": "1.5 cups with rice",
+        "calories": 600,
+        "carbs_g": 55,
+        "fat_g": 28,
+        "protein_g": 35,
+        "healthier_suggestion": "A curry made with a tomato or broth base instead of coconut cream, loaded with vegetables, served with brown rice or quinoa."
+    },
+    {
+        "name": "chicken_quesadilla",
+        "serving_size": "1 medium quesadilla",
+        "calories": 650,
+        "carbs_g": 45,
+        "fat_g": 35,
+        "protein_g": 40,
+        "healthier_suggestion": "Use a whole-wheat tortilla, half the cheese, double the chicken and veggies (like bell peppers and onions), and serve with salsa and Greek yogurt instead of sour cream."
+    },
+    {
+        "name": "chicken_wings",
+        "serving_size": "6 wings",
+        "calories": 500,
+        "carbs_g": 5,
+        "fat_g": 35,
+        "protein_g": 40,
+        "healthier_suggestion": "Baked or air-fried chicken wings with a dry rub or hot sauce instead of a creamy or sweet sauce. This drastically cuts down on fat and calories."
+    },
+    {
+        "name": "chocolate_cake",
+        "serving_size": "1 slice",
+        "calories": 450,
+        "carbs_g": 60,
+        "fat_g": 25,
+        "protein_g": 6,
+        "healthier_suggestion": "An avocado chocolate mousse (blended avocado, cocoa powder, sweetener) or fresh berries with a small piece of dark chocolate."
+    },
+    {
+        "name": "chocolate_mousse",
+        "serving_size": "1/2 cup",
+        "calories": 350,
+        "carbs_g": 25,
+        "fat_g": 28,
+        "protein_g": 5,
+        "healthier_suggestion": "Greek yogurt mixed with cocoa powder and a touch of maple syrup. It offers a similar creamy texture with more protein and less fat."
+    },
+    {
+        "name": "churros",
+        "serving_size": "2 churros with chocolate sauce",
+        "calories": 400,
+        "carbs_g": 50,
+        "fat_g": 20,
+        "protein_g": 5,
+        "healthier_suggestion": "A baked cinnamon tortilla strip or apple slices with a cinnamon-yogurt dip."
+    },
+    {
+        "name": "clam_chowder",
+        "serving_size": "1 cup (New England style)",
+        "calories": 250,
+        "carbs_g": 20,
+        "fat_g": 12,
+        "protein_g": 10,
+        "healthier_suggestion": "Manhattan-style (red, broth-based) clam chowder, which avoids the heavy cream and butter."
+    },
+    {
+        "name": "club_sandwich",
+        "serving_size": "1 sandwich",
+        "calories": 750,
+        "carbs_g": 50,
+        "fat_g": 45,
+        "protein_g": 40,
+        "healthier_suggestion": "A turkey sandwich on whole-wheat bread (two slices, not three) with lettuce, tomato, and avocado or hummus instead of bacon and mayonnaise."
+    },
+    {
+        "name": "crab_cakes",
+        "serving_size": "2 medium cakes",
+        "calories": 400,
+        "carbs_g": 20,
+        "fat_g": 25,
+        "protein_g": 25,
+        "healthier_suggestion": "Baked or pan-seared crab cakes instead of deep-fried, using more crab and less breadcrumb filler. Serve with a yogurt-based dill sauce."
+    },
+    {
+        "name": "creme_brulee",
+        "serving_size": "1 ramekin",
+        "calories": 450,
+        "carbs_g": 40,
+        "fat_g": 30,
+        "protein_g": 8,
+        "healthier_suggestion": "Vanilla bean Greek yogurt with a sprinkle of raw sugar, or a simple baked custard made with low-fat milk."
+    },
+    {
+        "name": "croque_madame",
+        "serving_size": "1 sandwich",
+        "calories": 800,
+        "carbs_g": 45,
+        "fat_g": 50,
+        "protein_g": 40,
+        "healthier_suggestion": "An open-faced sandwich on whole-wheat toast with lean ham, a little Swiss cheese melted on top, and a poached egg."
+    },
+    {
+        "name": "cup_cakes",
+        "serving_size": "1 cupcake with frosting",
+        "calories": 350,
+        "carbs_g": 50,
+        "fat_g": 16,
+        "protein_g": 4,
+        "healthier_suggestion": "A whole-wheat muffin made with fruit (like banana or apple sauce) as a sweetener, topped with a light yogurt frosting."
+    },
+    {
+        "name": "deviled_eggs",
+        "serving_size": "2 halves",
+        "calories": 150,
+        "carbs_g": 1,
+        "fat_g": 12,
+        "protein_g": 8,
+        "healthier_suggestion": "A fairly good choice. Make them healthier by using Greek yogurt or avocado instead of mayonnaise for the filling."
+    },
+    {
+        "name": "donuts",
+        "serving_size": "1 medium glazed donut",
+        "calories": 300,
+        "carbs_g": 35,
+        "fat_g": 17,
+        "protein_g": 4,
+        "healthier_suggestion": "A piece of whole-grain toast with cinnamon and a light sweetener, or a baked donut which has significantly less fat."
+    },
+    {
+        "name": "dumplings",
+        "serving_size": "6 steamed dumplings",
+        "calories": 300,
+        "carbs_g": 35,
+        "fat_g": 10,
+        "protein_g": 15,
+        "healthier_suggestion": "Steamed vegetable or lean protein (chicken, shrimp) dumplings are a great choice. Avoid fried versions and use soy sauce sparingly."
+    },
+    {
+        "name": "edamame",
+        "serving_size": "1 cup in pods",
+        "calories": 190,
+        "carbs_g": 15,
+        "fat_g": 8,
+        "protein_g": 17,
+        "healthier_suggestion": "This is an excellent, nutrient-dense food. Opt for steamed edamame with a light sprinkle of sea salt."
+    },
+    {
+        "name": "eggs_benedict",
+        "serving_size": "1 serving (2 eggs)",
+        "calories": 750,
+        "carbs_g": 30,
+        "fat_g": 50,
+        "protein_g": 35,
+        "healthier_suggestion": "Poached eggs on a whole-wheat English muffin with a slice of avocado and tomato instead of Canadian bacon and hollandaise sauce."
+    },
+    {
+        "name": "escargots",
+        "serving_size": "6 pieces",
+        "calories": 200,
+        "carbs_g": 3,
+        "fat_g": 18,
+        "protein_g": 8,
+        "healthier_suggestion": "The snails themselves are lean protein; the calories come from the garlic butter. Try them cooked in a tomato and herb broth instead."
+    },
+    {
+        "name": "falafel",
+        "serving_size": "3-4 balls with pita and tahini",
+        "calories": 550,
+        "carbs_g": 65,
+        "fat_g": 25,
+        "protein_g": 15,
+        "healthier_suggestion": "Baked falafel instead of fried. Serve in a whole-wheat pita or over a salad, and use tahini sauce in moderation."
+    },
+    {
+        "name": "filet_mignon",
+        "serving_size": "6 oz steak",
+        "calories": 350,
+        "carbs_g": 0,
+        "fat_g": 20,
+        "protein_g": 40,
+        "healthier_suggestion": "An excellent lean cut of steak. The key is portion control and pairing it with healthy sides like steamed vegetables or a side salad instead of creamy potatoes or fries."
+    },
+    {
+        "name": "fish_and_chips",
+        "serving_size": "1 filet and a medium portion of fries",
+        "calories": 900,
+        "carbs_g": 85,
+        "fat_g": 45,
+        "protein_g": 35,
+        "healthier_suggestion": "Baked or grilled fish (like cod) with roasted potato wedges or a side salad. This avoids the deep-frying for both components."
+    },
+    {
+        "name": "foie_gras",
+        "serving_size": "2 oz serving",
+        "calories": 250,
+        "carbs_g": 2,
+        "fat_g": 25,
+        "protein_g": 5,
+        "healthier_suggestion": "A chicken or mushroom pâté. It provides a similar rich, savory spread with significantly less saturated fat."
+    },
+    {
+        "name": "french_fries",
+        "serving_size": "1 medium portion",
+        "calories": 380,
+        "carbs_g": 50,
+        "fat_g": 18,
+        "protein_g": 5,
+        "healthier_suggestion": "Baked sweet potato fries or a simple baked potato. This reduces the fat from frying and adds nutrients."
+    },
+    {
+        "name": "french_onion_soup",
+        "serving_size": "1 bowl",
+        "calories": 400,
+        "carbs_g": 30,
+        "fat_g": 20,
+        "protein_g": 18,
+        "healthier_suggestion": "A broth-based vegetable or lentil soup. To make French onion soup healthier, use less bread and cheese on top."
+    },
+    {
+        "name": "french_toast",
+        "serving_size": "2 slices",
+        "calories": 500,
+        "carbs_g": 65,
+        "fat_g": 20,
+        "protein_g": 15,
+        "healthier_suggestion": "Use whole-grain bread, pan-fry with minimal butter/oil, and top with fresh fruit and a small amount of maple syrup instead of powdered sugar."
+    },
+    {
+        "name": "fried_calamari",
+        "serving_size": "1 appetizer plate",
+        "calories": 450,
+        "carbs_g": 35,
+        "fat_g": 25,
+        "protein_g": 20,
+        "healthier_suggestion": "Grilled or pan-seared calamari with lemon and herbs. This eliminates the breading and oil from frying."
+    },
+    {
+        "name": "fried_rice",
+        "serving_size": "1.5 cups",
+        "calories": 500,
+        "carbs_g": 75,
+        "fat_g": 15,
+        "protein_g": 18,
+        "healthier_suggestion": "Homemade fried rice using brown rice, double the vegetables, a lean protein like shrimp or chicken, and low-sodium soy sauce."
+    },
+    {
+        "name": "frozen_yogurt",
+        "serving_size": "1 cup",
+        "calories": 220,
+        "carbs_g": 45,
+        "fat_g": 4,
+        "protein_g": 5,
+        "healthier_suggestion": "This is already a healthier alternative to ice cream. Keep it healthy by choosing fruit toppings over candy, chocolate, and sugary sauces."
+    },
+    {
+        "name": "garlic_bread",
+        "serving_size": "2 slices",
+        "calories": 350,
+        "carbs_g": 45,
+        "fat_g": 15,
+        "protein_g": 8,
+        "healthier_suggestion": "Toasted whole-grain bread rubbed with a fresh garlic clove and a very light drizzle of olive oil."
+    },
+    {
+        "name": "gnocchi",
+        "serving_size": "1.5 cups with sauce",
+        "calories": 500,
+        "carbs_g": 70,
+        "fat_g": 20,
+        "protein_g": 15,
+        "healthier_suggestion": "Cauliflower gnocchi or whole-wheat gnocchi. Serve with a simple tomato-based (marinara) sauce instead of a cream or butter sauce."
+    },
+    {
+        "name": "greek_salad",
+        "serving_size": "1 entree salad",
+        "calories": 400,
+        "carbs_g": 15,
+        "fat_g": 35,
+        "protein_g": 8,
+        "healthier_suggestion": "A very healthy choice. The calories come from feta cheese and olive oil. Use both in moderation for an even lighter meal."
+    },
+    {
+        "name": "grilled_cheese_sandwich",
+        "serving_size": "1 sandwich",
+        "calories": 500,
+        "carbs_g": 40,
+        "fat_g": 30,
+        "protein_g": 20,
+        "healthier_suggestion": "Use whole-wheat bread, a smaller amount of a sharp cheese (for more flavor), and add tomato or spinach. Pan-fry with a light cooking spray instead of butter."
+    },
+    {
+        "name": "grilled_salmon",
+        "serving_size": "6 oz filet",
+        "calories": 350,
+        "carbs_g": 0,
+        "fat_g": 22,
+        "protein_g": 35,
+        "healthier_suggestion": "This is an exceptionally healthy meal, rich in protein and omega-3 fatty acids. Pair with steamed vegetables and quinoa for a balanced meal."
+    },
+    {
+        "name": "guacamole",
+        "serving_size": "1/2 cup",
+        "calories": 200,
+        "carbs_g": 12,
+        "fat_g": 18,
+        "protein_g": 3,
+        "healthier_suggestion": "A healthy choice full of good fats. Serve with fresh vegetable sticks (carrots, bell peppers, cucumbers) instead of fried tortilla chips."
+    },
+    {
+        "name": "gyoza",
+        "serving_size": "6 pieces (pan-fried)",
+        "calories": 350,
+        "carbs_g": 40,
+        "fat_g": 15,
+        "protein_g": 15,
+        "healthier_suggestion": "Steamed gyoza (dumplings) are a lighter alternative to the pan-fried version, as it uses less oil."
+    },
+    {
+        "name": "hamburger",
+        "serving_size": "1 burger with bun and cheese",
+        "calories": 600,
+        "carbs_g": 35,
+        "fat_g": 35,
+        "protein_g": 30,
+        "healthier_suggestion": "A burger made with lean ground turkey or a veggie patty on a whole-wheat bun. Load up on lettuce, tomato, and onion, and use mustard instead of mayo."
+    },
+    {
+        "name": "hot_and_sour_soup",
+        "serving_size": "1 cup",
+        "calories": 90,
+        "carbs_g": 12,
+        "fat_g": 3,
+        "protein_g": 6,
+        "healthier_suggestion": "A great low-calorie choice. Be mindful of the high sodium content; look for low-sodium versions if possible."
+    },
+    {
+        "name": "hot_dog",
+        "serving_size": "1 hot dog with bun",
+        "calories": 350,
+        "carbs_g": 25,
+        "fat_g": 20,
+        "protein_g": 12,
+        "healthier_suggestion": "A chicken or turkey sausage on a whole-wheat bun. Top with mustard and sauerkraut instead of cheese or chili."
+    },
+    {
+        "name": "huevos_rancheros",
+        "serving_size": "1 plate (2 eggs)",
+        "calories": 550,
+        "carbs_g": 40,
+        "fat_g": 30,
+        "protein_g": 25,
+        "healthier_suggestion": "Use poached eggs instead of fried, corn tortillas instead of flour, and serve with fresh salsa and a slice of avocado instead of refried beans and cheese."
+    },
+    {
+        "name": "hummus",
+        "serving_size": "1/2 cup",
+        "calories": 200,
+        "carbs_g": 20,
+        "fat_g": 12,
+        "protein_g": 8,
+        "healthier_suggestion": "Hummus is already very healthy. Serve it with raw vegetable sticks (carrots, celery, bell peppers) instead of pita bread for a lower-carb snack."
+    },
+    {
+        "name": "ice_cream",
+        "serving_size": "1 cup",
+        "calories": 300,
+        "carbs_g": 35,
+        "fat_g": 15,
+        "protein_g": 5,
+        "healthier_suggestion": "A fruit sorbet, \"nice cream\" (blended frozen bananas), or Greek frozen yogurt. These options are typically lower in fat and higher in nutrients."
+    },
+    {
+        "name": "lasagna",
+        "serving_size": "1 square piece",
+        "calories": 600,
+        "carbs_g": 50,
+        "fat_g": 30,
+        "protein_g": 35,
+        "healthier_suggestion": "Lasagna made with lean ground turkey or lentils, part-skim ricotta cheese, and layers of zucchini or eggplant slices instead of some of the pasta."
+    },
+    {
+        "name": "lobster_bisque",
+        "serving_size": "1 cup",
+        "calories": 350,
+        "carbs_g": 15,
+        "fat_g": 28,
+        "protein_g": 10,
+        "healthier_suggestion": "A broth-based seafood soup like cioppino or bouillabaisse. This avoids the heavy cream that drives up the fat and calories in bisque."
+    },
+    {
+        "name": "lobster_roll_sandwich",
+        "serving_size": "1 roll",
+        "calories": 500,
+        "carbs_g": 30,
+        "fat_g": 30,
+        "protein_g": 25,
+        "healthier_suggestion": "A Connecticut-style lobster roll (tossed in warm butter) is slightly better than a Maine-style one (mayonnaise). For a truly healthy version, try grilled lobster meat on a bed of greens."
+    },
+    {
+        "name": "macaroni_and_cheese",
+        "serving_size": "1.5 cups",
+        "calories": 600,
+        "carbs_g": 60,
+        "fat_g": 30,
+        "protein_g": 25,
+        "healthier_suggestion": "Use whole-wheat pasta with a sauce made from pureed butternut squash or cauliflower, nutritional yeast, and a small amount of sharp cheddar cheese."
+    },
+    {
+        "name": "macarons",
+        "serving_size": "2 cookies",
+        "calories": 200,
+        "carbs_g": 25,
+        "fat_g": 10,
+        "protein_g": 4,
+        "healthier_suggestion": "Meringue cookies. They are also light and airy but contain almost no fat. Fresh berries are another light, sweet alternative."
+    },
+    {
+        "name": "miso_soup",
+        "serving_size": "1 cup",
+        "calories": 60,
+        "carbs_g": 7,
+        "fat_g": 2,
+        "protein_g": 4,
+        "healthier_suggestion": "An excellent, low-calorie choice. The main health concern is high sodium content, so consume in moderation."
+    },
+    {
+        "name": "mussels",
+        "serving_size": "1 lb (in shell)",
+        "calories": 300,
+        "carbs_g": 15,
+        "fat_g": 10,
+        "protein_g": 40,
+        "healthier_suggestion": "A fantastic, high-protein, and nutrient-rich choice. Opt for mussels steamed in a white wine or tomato broth rather than a creamy or buttery sauce."
+    },
+    {
+        "name": "nachos",
+        "serving_size": "1 large plate to share",
+        "calories": 1200,
+        "carbs_g": 100,
+        "fat_g": 70,
+        "protein_g": 45,
+        "healthier_suggestion": "A \"nacho salad\" with a base of lettuce, topped with black beans, grilled chicken, salsa, and a small sprinkle of cheese. Use a few baked chips for crunch."
+    },
+    {
+        "name": "omelette",
+        "serving_size": "3-egg omelette",
+        "calories": 450,
+        "carbs_g": 5,
+        "fat_g": 35,
+        "protein_g": 25,
+        "healthier_suggestion": "A great high-protein breakfast. Make it healthier by loading it with vegetables (spinach, mushrooms, peppers), using less cheese, and choosing a side of fruit instead of potatoes."
+    },
+    {
+        "name": "onion_rings",
+        "serving_size": "8-10 rings",
+        "calories": 450,
+        "carbs_g": 50,
+        "fat_g": 28,
+        "protein_g": 6,
+        "healthier_suggestion": "Baked onion rings made with a whole-wheat flour or breadcrumb coating. This significantly cuts down on the oil and fat."
+    },
+    {
+        "name": "oysters",
+        "serving_size": "6 raw oysters",
+        "calories": 50,
+        "carbs_g": 5,
+        "fat_g": 1,
+        "protein_g": 6,
+        "healthier_suggestion": "Raw or steamed oysters are incredibly healthy and low-calorie. Avoid fried versions (like Oysters Rockefeller) which add significant fat and calories."
+    },
+    {
+        "name": "pad_thai",
+        "serving_size": "1 restaurant portion",
+        "calories": 800,
+        "carbs_g": 100,
+        "fat_g": 35,
+        "protein_g": 30,
+        "healthier_suggestion": "Ask for extra vegetables, tofu or shrimp instead of chicken, and request the sauce on the side to control sugar, sodium, and oil."
+    },
+    {
+        "name": "paella",
+        "serving_size": "1 large plate",
+        "calories": 650,
+        "carbs_g": 80,
+        "fat_g": 20,
+        "protein_g": 35,
+        "healthier_suggestion": "A fairly balanced meal. Opt for a seafood paella loaded with vegetables and go easy on high-fat meats like chorizo."
+    },
+    {
+        "name": "pancakes",
+        "serving_size": "3 medium pancakes",
+        "calories": 500,
+        "carbs_g": 80,
+        "fat_g": 15,
+        "protein_g": 12,
+        "healthier_suggestion": "Whole-wheat or oatmeal pancakes. Top with fresh fruit, berries, and a small amount of pure maple syrup instead of butter and pancake syrup."
+    },
+    {
+        "name": "panna_cotta",
+        "serving_size": "1 serving",
+        "calories": 400,
+        "carbs_g": 30,
+        "fat_g": 30,
+        "protein_g": 5,
+        "healthier_suggestion": "A fruit sorbet or a simple bowl of fresh berries with a dollop of yogurt. This reduces the heavy cream content."
+    },
+    {
+        "name": "peking_duck",
+        "serving_size": "2-3 pancakes/buns",
+        "calories": 450,
+        "carbs_g": 30,
+        "fat_g": 25,
+        "protein_g": 20,
+        "healthier_suggestion": "Roasted chicken or turkey breast lettuce wraps. This gives a similar experience of wrapping savory meat but with less fat and carbs."
+    },
+    {
+        "name": "pho",
+        "serving_size": "1 large bowl",
+        "calories": 450,
+        "carbs_g": 50,
+        "fat_g": 10,
+        "protein_g": 30,
+        "healthier_suggestion": "Pho is already quite healthy. Maximize its benefits by choosing a lean protein (like rare beef or chicken breast), loading up on fresh herbs and bean sprouts, and using hoisin/sriracha sauce sparingly."
+    },
+    {
+        "name": "pizza",
+        "serving_size": "2 slices of 14\" pepperoni pizza",
+        "calories": 600,
+        "carbs_g": 70,
+        "fat_g": 25,
+        "protein_g": 25,
+        "healthier_suggestion": "A thin-crust pizza (or cauliflower crust) with tomato sauce, lots of vegetable toppings, and half the normal amount of cheese."
+    },
+    {
+        "name": "pork_chop",
+        "serving_size": "1 medium (6oz) fried chop",
+        "calories": 450,
+        "carbs_g": 15,
+        "fat_g": 25,
+        "protein_g": 40,
+        "healthier_suggestion": "A grilled or baked pork chop with the fat trimmed off. This avoids the breading and oil from frying."
+    },
+    {
+        "name": "poutine",
+        "serving_size": "1 medium serving",
+        "calories": 750,
+        "carbs_g": 80,
+        "fat_g": 40,
+        "protein_g": 20,
+        "healthier_suggestion": "Roasted potato wedges topped with a small amount of cheese curds and a lighter, mushroom-based gravy."
+    },
+    {
+        "name": "prime_rib",
+        "serving_size": "8 oz slice",
+        "calories": 700,
+        "carbs_g": 2,
+        "fat_g": 55,
+        "protein_g": 45,
+        "healthier_suggestion": "A leaner cut of beef, such as a filet mignon or sirloin steak, with visible fat trimmed. This significantly reduces the fat content."
+    },
+    {
+        "name": "pulled_pork_sandwich",
+        "serving_size": "1 sandwich",
+        "calories": 650,
+        "carbs_g": 55,
+        "fat_g": 30,
+        "protein_g": 35,
+        "healthier_suggestion": "Pulled chicken sandwich made with a vinegar-based sauce instead of a sugary BBQ sauce, served on a whole-wheat bun or over a salad."
+    },
+    {
+        "name": "ramen",
+        "serving_size": "1 large bowl",
+        "calories": 600,
+        "carbs_g": 80,
+        "fat_g": 20,
+        "protein_g": 25,
+        "healthier_suggestion": "Choose a broth-based (shio or shoyu) ramen over a rich, fatty one (tonkotsu). Ask for extra vegetables and lean protein, and consider eating only half the noodles."
+    },
+    {
+        "name": "ravioli",
+        "serving_size": "1 cup (cheese ravioli)",
+        "calories": 450,
+        "carbs_g": 50,
+        "fat_g": 20,
+        "protein_g": 20,
+        "healthier_suggestion": "Butternut squash or spinach and ricotta ravioli served in a light tomato or sage-butter sauce instead of a heavy cream sauce."
+    },
+    {
+        "name": "red_velvet_cake",
+        "serving_size": "1 slice",
+        "calories": 500,
+        "carbs_g": 65,
+        "fat_g": 25,
+        "protein_g": 6,
+        "healthier_suggestion": "Angel food cake with fresh strawberries. It provides a light, fluffy texture and sweetness with a fraction of the fat and calories."
+    },
+    {
+        "name": "risotto",
+        "serving_size": "1.5 cups",
+        "calories": 500,
+        "carbs_g": 70,
+        "fat_g": 18,
+        "protein_g": 15,
+        "healthier_suggestion": "A vegetable risotto (like mushroom or asparagus) made with minimal butter and cheese. Use vegetable broth for creaminess."
+    },
+    {
+        "name": "samosa",
+        "serving_size": "1 large samosa",
+        "calories": 300,
+        "carbs_g": 35,
+        "fat_g": 15,
+        "protein_g": 6,
+        "healthier_suggestion": "Baked samosas instead of fried. A lentil-based filling can also be a healthier option than the traditional potato filling."
+    },
+    {
+        "name": "sashimi",
+        "serving_size": "6 pieces",
+        "calories": 200,
+        "carbs_g": 0,
+        "fat_g": 5,
+        "protein_g": 30,
+        "healthier_suggestion": "An outstandingly healthy, high-protein choice. Pair with a side of edamame or seaweed salad and use low-sodium soy sauce."
+    },
+    {
+        "name": "scallops",
+        "serving_size": "5-6 large scallops",
+        "calories": 250,
+        "carbs_g": 10,
+        "fat_g": 12,
+        "protein_g": 25,
+        "healthier_suggestion": "A very healthy lean protein. Opt for pan-seared or grilled scallops instead of fried, and serve them with a lemon-herb sauce rather than a heavy cream or butter sauce."
+    },
+    {
+        "name": "seaweed_salad",
+        "serving_size": "1/2 cup",
+        "calories": 100,
+        "carbs_g": 10,
+        "fat_g": 6,
+        "protein_g": 2,
+        "healthier_suggestion": "This is already a very healthy and nutrient-dense side dish. Be mindful of the dressing, which can be high in sugar and sodium."
+    },
+    {
+        "name": "shrimp_and_grits",
+        "serving_size": "1 large bowl",
+        "calories": 600,
+        "carbs_g": 50,
+        "fat_g": 30,
+        "protein_g": 30,
+        "healthier_suggestion": "Grilled shrimp served over grits made with water or milk instead of heavy cream and butter, with minimal cheese."
+    },
+    {
+        "name": "spaghetti_bolognese",
+        "serving_size": "2 cups",
+        "calories": 650,
+        "carbs_g": 75,
+        "fat_g": 25,
+        "protein_g": 30,
+        "healthier_suggestion": "Use whole-wheat spaghetti or zucchini noodles (\"zoodles\"). Make the sauce with lean ground turkey or lentils and pack it with extra vegetables like carrots, celery, and mushrooms."
+    },
+    {
+        "name": "spaghetti_carbonara",
+        "serving_size": "2 cups",
+        "calories": 800,
+        "carbs_g": 80,
+        "fat_g": 40,
+        "protein_g": 35,
+        "healthier_suggestion": "A lighter version using whole-wheat pasta, turkey bacon, and a sauce made with Greek yogurt or pureed cauliflower to mimic creaminess, saving the egg yolk and a sprinkle of parmesan for flavor."
+    },
+    {
+        "name": "spring_rolls",
+        "serving_size": "2 fried rolls",
+        "calories": 350,
+        "carbs_g": 40,
+        "fat_g": 18,
+        "protein_g": 8,
+        "healthier_suggestion": "Fresh or \"summer\" rolls (not fried) made with rice paper and filled with fresh vegetables and shrimp or tofu. They offer all the flavor with a fraction of the fat."
+    },
+    {
+        "name": "steak",
+        "serving_size": "10 oz Ribeye",
+        "calories": 750,
+        "carbs_g": 0,
+        "fat_g": 55,
+        "protein_g": 60,
+        "healthier_suggestion": "Choose a leaner cut like sirloin, flank steak, or filet mignon. Trim all visible fat, grill or broil instead of pan-frying in butter, and stick to a smaller portion size (4-6 oz)."
+    },
+    {
+        "name": "strawberry_shortcake",
+        "serving_size": "1 serving",
+        "calories": 400,
+        "carbs_g": 60,
+        "fat_g": 16,
+        "protein_g": 5,
+        "healthier_suggestion": "A bowl of fresh strawberries topped with a dollop of Greek yogurt or a small scoop of angel food cake."
+    },
+    {
+        "name": "sushi",
+        "serving_size": "1 roll (8 pieces)",
+        "calories": 350,
+        "carbs_g": 55,
+        "fat_g": 8,
+        "protein_g": 15,
+        "healthier_suggestion": "Opt for simple rolls with fish and vegetables (like a tuna or cucumber roll). Ask for brown rice, and avoid rolls with tempura (fried items), spicy mayo, and cream cheese."
+    },
+    {
+        "name": "tacos",
+        "serving_size": "3 tacos (ground beef, hard shell)",
+        "calories": 600,
+        "carbs_g": 45,
+        "fat_g": 35,
+        "protein_g": 25,
+        "healthier_suggestion": "Tacos with grilled fish or chicken in soft corn tortillas, loaded with fresh lettuce, salsa, and avocado instead of cheese and sour cream."
+    },
+    {
+        "name": "takoyaki",
+        "serving_size": "6 pieces",
+        "calories": 360,
+        "carbs_g": 40,
+        "fat_g": 15,
+        "protein_g": 12,
+        "healthier_suggestion": "This is a fried snack, so it is hard to make healthy. A better option for a savory Japanese snack would be steamed edamame or a simple seaweed salad."
+    },
+    {
+        "name": "tiramisu",
+        "serving_size": "1 square",
+        "calories": 550,
+        "carbs_g": 50,
+        "fat_g": 35,
+        "protein_g": 10,
+        "healthier_suggestion": "Coffee-flavored Greek yogurt with a sprinkle of cocoa powder and a vanilla wafer. This captures the flavor profile without the heavy mascarpone cheese and raw eggs."
+    },
+    {
+        "name": "tuna_tartare",
+        "serving_size": "1 appetizer serving",
+        "calories": 300,
+        "carbs_g": 10,
+        "fat_g": 15,
+        "protein_g": 25,
+        "healthier_suggestion": "This is a very healthy high-protein choice. Ensure the sauce is soy-based rather than creamy or mayonnaise-based, and serve with cucumber slices instead of fried wonton chips."
+    },
+    {
+        "name": "waffles",
+        "serving_size": "2 medium waffles",
+        "calories": 450,
+        "carbs_g": 60,
+        "fat_g": 20,
+        "protein_g": 10,
+        "healthier_suggestion": "Whole-grain or protein waffles. Top with fresh berries, a dollop of Greek yogurt, and a small amount of pure maple syrup instead of butter and whipped cream."
+    }
+]
